@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Himanshu Rana",
+      "email": "himanshu@gmail.com",
+      "password": "qwerty123"
+    },
+    {
+      "id": 2,
+      "name": "Piyush Singhal",
+      "email": "piyush@gmail.com",
+      "password": "qwerty123"
+    }
+  ],
+  "analytics": [
+    {
+      "id": 1,
+      "user": "Himanshu Rana",
+      "type": "Income",
+      "category": "Salary",
+      "amount": 35000,
+      "date": "2023-03-30"
+    },
+    {
+      "id": 2,
+      "user": "Himanshu Rana",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": 5000,
+      "date": "2023-03-20"
+    },
+    {
+      "id": 3,
+      "user": "Piyush Singhal",
+      "type": "Income",
+      "category": "Salary",
+      "amount": 45000,
+      "date": "2023-03-30"
+    }
+  ]
+}
